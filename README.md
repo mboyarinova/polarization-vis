@@ -8,7 +8,7 @@ This visualization attempts to answer an important question: is polarization bet
 
 ## Setup
 
-To run this project, install it locally using npm: 
+To run this project, install it locally (in the project directory) using npm: 
 
 ```
 npm install
